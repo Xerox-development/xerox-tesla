@@ -1,3 +1,3 @@
-Cześć, dzięki za pobranie mojego skryotu jeżeli napotkasz jaki kolwiek błąd odezwij się do mnie na pv.
+Jeżeli napotkasz jakiekolwiek błędy w skrypcie lub skrypt nie działa tak, jak powinien, śmiało skontaktuj się ze mną na Discordzie.
 
-Nick discord: xero_xik
+Nick Discord: xero_xik
